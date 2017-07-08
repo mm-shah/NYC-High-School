@@ -1,5 +1,5 @@
 # NYC High School SAT exam analysis
-SAT score analysis done on High schools in 5 boroughs of Greater New York Area. 
+SAT score analysis done on High schools in 5 boroughs of New York city. 
 
 The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students take before applying to college. Colleges take the test scores into account when deciding who to admit, so it's fairly important to perform well on it.
 
